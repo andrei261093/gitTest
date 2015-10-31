@@ -1,2 +1,3 @@
 ==continut fisier .txt==
 Linia 2
+text de pe tableta
